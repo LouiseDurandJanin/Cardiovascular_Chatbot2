@@ -1,0 +1,7 @@
+BioMistral-7B.Q4_K_M.gguf
+qdrant_storage/
+data/
+__pycache__/
+env_chatbot/
+venv/
+.DS_Store
