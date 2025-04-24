@@ -5,3 +5,4 @@ __pycache__/
 env_chatbot/
 venv/
 .DS_Store
+qdrant_storage_backup/
