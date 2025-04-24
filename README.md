@@ -18,8 +18,8 @@ The initial step is to create a vector embedding of all the documents. This is d
 In order to run the application, you have to create a new Python virtual environment.
 
 ```
-python3 -m venv venv
-source venv venv
+python3 -m venv env_chatbot
+source env_chatbot/bin/activate
 ```
 
 <b>Step 2: Install all the requirements</b>
